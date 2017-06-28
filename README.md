@@ -4,7 +4,7 @@ about more.
 
 Benefits
 ---
-* [1000 free CPU hours from Ravello Systems](https://www.ravellosystems.com/go/rhce)
+* ~~[1000 free CPU hours from Ravello Systems](https://www.ravellosystems.com/go/rhce)~~ *Note: I emailed a few times but they never actually set this up*
 * [Red Hat Certified Professional Store](https://redhat.brandfuel.com/certification.php)
 
 
